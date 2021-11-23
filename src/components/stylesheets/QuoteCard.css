@@ -1,0 +1,19 @@
+.QuoteCard {
+    display: flex;
+    padding: 1.25em;
+    margin-top: 3rem;
+    width: 400px;
+    border-radius: 12px;
+    box-shadow: 0 0 12px rgba(0, 0, 0);
+    font-size: 1.2em;
+  }
+  
+  .QuoteCard img {
+    max-width: 100px;
+    margin-right: 1.5rem;
+  }
+  
+  .QuoteCard cite {
+    margin-left: 50px;
+  }
+  
